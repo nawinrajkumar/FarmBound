@@ -1,0 +1,22 @@
+names:
+- Bear
+- Bull
+- Cattle
+- Cheetah
+- Chicken
+- Elephant
+- Goat
+- Horse
+- Pig
+- Sheep
+- Tiger
+nc: 11
+roboflow:
+  license: CC BY 4.0
+  project: agricultural-fencing
+  url: https://universe.roboflow.com/project/agricultural-fencing/dataset/2
+  version: 2
+  workspace: project
+test: ../test/images
+train: Agricultural-Fencing-2/train/images
+val: Agricultural-Fencing-2/valid/images
