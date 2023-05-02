@@ -130,7 +130,7 @@ dmypy.json
 
 # datasets and projects
 datasets/
-runs/
+
 wandb/
 ultralytics/yolo/v8/detect/Virtual-Fencing-1
 
