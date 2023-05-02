@@ -132,6 +132,7 @@ dmypy.json
 datasets/
 runs/
 wandb/
+ultralytics/yolo/v8/detect/Virtual-Fencing-1
 
 .DS_Store
 
